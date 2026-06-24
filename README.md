@@ -20,17 +20,16 @@ Modern online grocery shopping platform with real-time inventory, secure payment
 ## Tech Stack
 
 ### Frontend
-- Next.js
+- javaScript
 - React
-- TypeScript
-- Tailwind CSS
+
 
 ### Backend
-- Node.js
-- Express.js / NestJS
+- java
+- Springboot
 
 ### Database
-- PostgreSQL
+- MySQL
 
 ### Authentication
 - JWT
